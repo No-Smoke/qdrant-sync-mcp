@@ -1,0 +1,3 @@
+# Qdrant Sync MCP Server Dependencies
+mcp>=1.0.0
+httpx>=0.25.0
